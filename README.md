@@ -1,2 +1,2 @@
 # skylight
-Privesc enumeration tool written in bash.
+Linux enumeration tool written in bash.

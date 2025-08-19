@@ -22,7 +22,7 @@ cat << "EOF"
 ███████║██║  ██╗   ██║   ███████╗██║╚██████╔╝██║  ██║   ██║
 ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝
 ==============================================================
-By: Skycritch v.1.06  https://github.com/Skycritch/skylight/
+By: Skycritch v.1.02  https://github.com/Skycritch/skylight/
 EOF
 echo -e "${NC}"
 
